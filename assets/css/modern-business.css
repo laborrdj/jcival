@@ -1,0 +1,89 @@
+
+@font-face {
+  font-family: 'gilmerbold';
+  src: url('gilmer_bold-webfont.woff2') format('woff2'),
+       url('gilmer_bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'gilmerheavy';
+  src: url('gilmer_heavy-webfont.woff2') format('woff2'),
+       url('gilmer_heavy-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'gilmerlight';
+  src: url('gilmer_light-webfont.woff2') format('woff2'),
+       url('gilmer_light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'gilmermedium';
+  src: url('gilmer_medium-webfont.woff2') format('woff2'),
+       url('gilmer_medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'gilmeroutline';
+  src: url('gilmer_outline-webfont.woff2') format('woff2'),
+       url('gilmer_outline-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'uploaded_fileuploaded_file';
+  src: url('gilmer_regular-webfont.woff2') format('woff2'),
+       url('gilmer_regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
