@@ -19,6 +19,11 @@
                         placeholder="Enter Last Name">
                 </div>
                 <div class="col-12 form-group">
+                    <label for="Lastname">Middle Name</label>
+                    <input type="text" class="form-control" id="mname" aria-describedby="#"
+                        placeholder="Enter Middle Name">
+                </div>
+                <div class="col-12 form-group">
                     <label for="Email">Email</label>
                     <input type="text" class="form-control" id="usemail" aria-describedby="#"
                         placeholder="Enter valid email">
@@ -64,6 +69,11 @@
                     </div>
                 </div>
                 
+                <div class="col-12 form-group">
+                    <label for="Lastname">Address</label>
+                    <input type="text" class="form-control" id="useraddress" aria-describedby="#"
+                        placeholder="Enter Address">
+                </div>
 
                 <div class="container">
                     <div class="form-row">
