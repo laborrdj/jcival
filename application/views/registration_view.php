@@ -19,7 +19,7 @@
                         placeholder="Enter Last Name">
                 </div>
                 <div class="col-12 form-group">
-                    <label for="Lastname">Middle Name</label>
+                    <label for="Middlename">Middle Name</label>
                     <input type="text" class="form-control" id="mname" aria-describedby="#"
                         placeholder="Enter Middle Name">
                 </div>
@@ -70,7 +70,7 @@
                 </div>
                 
                 <div class="col-12 form-group">
-                    <label for="Lastname">Address</label>
+                    <label for="Address">Address</label>
                     <input type="text" class="form-control" id="useraddress" aria-describedby="#"
                         placeholder="Enter Address">
                 </div>
